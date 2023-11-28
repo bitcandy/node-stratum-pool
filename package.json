@@ -32,7 +32,7 @@
         "async": "^2.6.1",
         "base58-native": "^0.1.4",
         "bignum": "^0.13.0",
-        "bitgo-utxo-lib": "git+https://github.com/bitcandy/bitgo-utxo-lib-cdy.git",
+        "bitgo-utxo-lib": "git+https://github.com/bitcandy/bitgo-utxo-lib#a441406362a9705eec9a71827804239ba44e3ba7",
         "equihashverify": "git+https://github.com/bitcandy/equihashverify.git",
         "verushash": "git+https://github.com/bitcandy/verushash-node",
         "merkle-bitcoin": "^1.0.2",
